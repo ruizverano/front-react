@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/front-react/static/css/main.5e292154.css",
+    "main.js": "/front-react/static/js/main.6563e5db.js",
+    "static/js/453.31783d74.chunk.js": "/front-react/static/js/453.31783d74.chunk.js",
+    "static/media/logo.svg": "/front-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/front-react/index.html",
+    "main.5e292154.css.map": "/front-react/static/css/main.5e292154.css.map",
+    "main.6563e5db.js.map": "/front-react/static/js/main.6563e5db.js.map",
+    "453.31783d74.chunk.js.map": "/front-react/static/js/453.31783d74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e292154.css",
+    "static/js/main.6563e5db.js"
+  ]
+}
